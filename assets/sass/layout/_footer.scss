@@ -1,0 +1,32 @@
+///
+/// Editorial by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Footer */
+
+.footer-center {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8; /* Cor de fundo opcional */
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-center .icons {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.footer-center .icons li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.footer-center .icons a {
+    color: #333; /* Cor dos ícones */
+    text-decoration: none;
+}
